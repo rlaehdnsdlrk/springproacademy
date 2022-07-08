@@ -38,6 +38,7 @@
 		</table>
     </div>
     <div class="panel-footer">인프런_스프1탄_김도운</div>
+    <di> 혼자 github 연습중</di>
   </div>
 </div>
 
